@@ -7,3 +7,6 @@
 5. Hotel Transylvania
 6. Casper
 7. Corpse Bride
+8. HalloweenTown
+9. It's the Great Pumpkin Charlie Brown 
+10. Goosebumps

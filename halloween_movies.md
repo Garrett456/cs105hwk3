@@ -10,9 +10,4 @@
 8. HalloweenTown
 9. It's the Great Pumpkin Charlie Brown 
 10. Goosebumps
-11. Sleepy Hollow
-12. A Nightmare on Elm Street
-13. Scooby-Doo
-14. Germlins
-15. Edward Scissorhands
-16. Ghostbusters
+

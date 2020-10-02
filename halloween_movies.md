@@ -14,3 +14,4 @@
 12. A Nightmare on Elm Street
 13. Scooby-Doo
 14. Germlins
+15. Edward Scissorhands

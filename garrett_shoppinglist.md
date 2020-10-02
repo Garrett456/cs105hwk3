@@ -4,3 +4,5 @@ milk
 eggs
 bread
 chips
+apples
+goldfish

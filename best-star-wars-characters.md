@@ -2,7 +2,7 @@
 ## (please add to my list) :)
 1. anakin
 2. r2-d2
-3. luke kywalker
+3. luke skywalker
 4. bb-8
 5. obi-wan kenobi
 6. princess leia

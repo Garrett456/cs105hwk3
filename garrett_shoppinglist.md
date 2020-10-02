@@ -6,3 +6,6 @@
 4. chips
 5. apples
 6. goldfish
+7. ice cream
+8. popcorn
+9. halloween candy

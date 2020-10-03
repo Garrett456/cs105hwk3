@@ -1,5 +1,4 @@
 1. lemonade
 2. tea
 3. water
-4. soda
-5. juice
+The list was longer before but the other drinks were gross

@@ -13,12 +13,13 @@
 11. poe dameron
 12. yoda
 13. chewbacca
-14. boba fett
-15. qui-gon jinn
-16. orlando calrissian
-17. darth maul
-18. c-3po
-19. jabba the hut
-20. jar jar binks
-21. palpatine
-22. watto
+14. Finn
+15. boba fett
+16. qui-gon jinn
+17. orlando calrissian
+18. darth maul
+19. c-3po
+20. jabba the hut
+21. jar jar binks
+22. palpatine
+23. watto

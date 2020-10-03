@@ -4,4 +4,4 @@ Garrett Marshall / gam279@nau.edu
 
 Nicole Sylvester / nes237@nau.edu
 
-Ilya / < email >
+Ilya Ya'qub / cmh798@nau.edu
